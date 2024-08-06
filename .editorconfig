@@ -1,0 +1,4 @@
+# Definir a indentação usando 2 espaços
+[*]
+indent_style = space
+indent_size = 2
